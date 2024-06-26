@@ -1,0 +1,1 @@
+import{_ as o}from"./q-uemlvruI.js";import{C as e,q as t}from"./q-Cv4fnyrc.js";const r=e(t(()=>o(()=>import("./q-DkCXgucF.js"),[]),"s_xYL1qOwPyDI")),m={title:"Mohido",meta:[{name:"description",content:"Mohammed Al-Mahdawi Personal Website"}]};export{r as default,m as head};
