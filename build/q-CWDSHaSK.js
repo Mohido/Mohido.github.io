@@ -1,0 +1,1 @@
+import{_ as s}from"./q-uemlvruI.js";import{q as a}from"./q-CUnOVDMa.js";const k="/assets/worker-BwlCKP2Q.js",t=new Map;let o=0;const m=()=>(o++,o),_=e=>{let r=t.get(e.getHash());return r||t.set(e.getHash(),r=new Worker(k,{name:`worker$(${e.getSymbol()})`,type:"module"})),r},g=e=>a(()=>s(()=>import("./q-DfJQWEGR.js"),[]),"s_p3sEsP0mhfo",[e]);export{m as a,_ as g,g as w};
